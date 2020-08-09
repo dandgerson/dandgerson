@@ -7,4 +7,4 @@
 - 💬 Ask me about React, Redux, D3
 - 📫 How to reach me: dandgerson@gmail.com
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: no fun facts... I'm very serious
+- ⚡ Fun fact: **no fun facts... I'm very serious**
