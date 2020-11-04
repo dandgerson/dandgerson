@@ -65,4 +65,4 @@ I am aiming to become a full-stack developer in the near future.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dandgerson.dandgerson)
 
-⭐️ From [Esteban-Ladino](https://github.com/dandgerson)
+⭐️ From [dandgerson](https://github.com/dandgerson)
