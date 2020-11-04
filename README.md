@@ -21,6 +21,9 @@
 <br>
 <br>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="150px">
+
+
 
 Hi there, I’m **Dmitry G. Anderson** a **Frontend Developer**, I specialize in **React apps**, CSS and HTML. In addition, I work with CSS preprocessors like SASS.  I am interested in building innovative interfaces which proved the best user experience possible. My professional life has been 100% driven by my passion for video-games and system engineering.
 I am aiming to become a full-stack developer in the near future.
@@ -36,7 +39,6 @@ I am aiming to become a full-stack developer in the near future.
 
 
 ![Dmitry's G. Anderson github stats](https://github-readme-stats.vercel.app/api?username=dandgerson&show_icons=true&hide=issues&theme=nord)
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="150px">
 
 | ![Dmitry's G. Anderson wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dandgerson&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandgerson&hide=php&layout=compact)  | 
 |:-:|:-:|
