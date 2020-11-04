@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 🔭 I’m currently working on [Cry](https://github.com/dandgerson/cry)
 - 🌱 I’m currently learning React, Redux/MobX, D3
 - 👯 I’m looking to collaborate on [Cry](https://github.com/dandgerson/cry)
@@ -42,17 +40,17 @@
 Hi there, I’m **Dmitry G. Anderson** a **Frontend Developer**, I specialize in **React apps**, CSS and HTML. In addition, I work with CSS preprocessors like SASS.  I am interested in building innovative interfaces which proved the best user experience possible. My professional life has been 100% driven by my passion for video-games and system engineering.
 I am aiming to become a full-stack developer in the near future.
 
-****Languages and Tools:****
+****Stuff kit:****
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="25" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/thumb/apollo-seeklogo.com_%281%29.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
@@ -60,7 +58,7 @@ I am aiming to become a full-stack developer in the near future.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-| ![Dmitry's G. Anderson github stats](https://github-readme-stats.vercel.app/api?username=dandgerson&show_icons=true&hide=issues&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandgerson&hide=php)  |
+| ![Dmitry's G. Anderson github stats](https://github-readme-stats.vercel.app/api?username=dandgerson&show_icons=true&hide=issues&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandgerson&hide=php&layout=compact)  |
 |:-:|:-:|
 
 
