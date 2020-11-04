@@ -14,6 +14,10 @@
 ## <img alt="GIF" src="https://cdn.betterttv.net/emote/5964f26d2e496b208df497a5/3x" width="35px" /> Hey 👋, I'm Dmitry G. Anderson
 <br>
 
+
+<a href="https://twitter.com/dandgerson" target="_blank">
+  <img align="left" alt="Dmitry's G. Anderson Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <a href="https://www.linkedin.com/in/dandgerson/" target="_blank">
   <img align="left" alt="Dmitry's G. Anderson LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
