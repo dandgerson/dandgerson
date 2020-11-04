@@ -1,4 +1,4 @@
-# <img alt="GIF" src="https://cdn.betterttv.net/emote/5964f26d2e496b208df497a5/3x" width="35px" /> Hey 👋, I'm Dmitry G. Anderson
+### <img alt="GIF" src="https://cdn.betterttv.net/emote/5964f26d2e496b208df497a5/3x" width="35px" /> Hey 👋 I'm Dmitry G. Anderson
 <br>
 
 
@@ -29,6 +29,11 @@
 Hi there, I’m **Dmitry G. Anderson** a **Frontend Developer**, I specialize in **React apps**, CSS and HTML. In addition, I work with CSS preprocessors like SASS.  I am interested in building innovative interfaces which proved the best user experience possible. My professional life has been 100% driven by my passion for video-games and system engineering.
 I am aiming to become a full-stack developer in the near future.
 
+![Dmitry's G. Anderson github stats](https://github-readme-stats.vercel.app/api?username=dandgerson&show_icons=true&hide=issues&theme=nord)
+
+| ![Dmitry's G. Anderson wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dandgerson) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandgerson&hide=php&layout=compact)  | 
+|:-:|:-:|
+
 - 🔭 I’m currently working on [Cry](https://github.com/dandgerson/cry)
 - 🌱 I’m currently learning React, Redux/MobX, D3
 - 👯 I’m looking to collaborate on [Cry](https://github.com/dandgerson/cry)
@@ -36,13 +41,7 @@ I am aiming to become a full-stack developer in the near future.
 - 💬 Ask me about React, Redux/MobX, D3
 - 📫 How to reach me: dandgerson@gmail.com
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: **no fun facts... I'm very serious**
-
-
-| ![Dmitry's G. Anderson wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dandgerson) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandgerson&hide=php&layout=compact)  |
-|:-:|:-:|
-
-![Dmitry's G. Anderson github stats](https://github-readme-stats.vercel.app/api?username=dandgerson&show_icons=true&hide=issues&theme=nord)
+- ⚡ Fun fact: **no fun facts... I'm very serious** 
 
 
 ****Stuff kit:****
