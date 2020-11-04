@@ -1,4 +1,4 @@
-### <img alt="GIF" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="35px" /> Hey 👋 I'm Dmitry G. Anderson
+### <img alt="GIF" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="24px" /> Hey 👋 I'm Dmitry G. Anderson
 <br>
 
 
