@@ -1,4 +1,4 @@
-### <img alt="GIF" src="https://cdn.betterttv.net/emote/5964f26d2e496b208df497a5/3x" width="35px" /> Hey 👋 I'm Dmitry G. Anderson
+### <img alt="GIF" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="35px" /> Hey 👋 I'm Dmitry G. Anderson
 <br>
 
 
