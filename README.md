@@ -1,6 +1,4 @@
 ### <img alt="GIF" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="24px" /> Hey 👋 I'm Dmitry G. Anderson
-<br>
-
 
 <a href="https://twitter.com/dandgerson" target="_blank">
   <img align="left" alt="Dmitry's G. Anderson Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,11 +21,11 @@
 <br>
 <br>
 
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="150px">
-
 
 Hi there, I’m **Dmitry G. Anderson** a **Frontend Developer**, I specialize in **React apps**, CSS and HTML. In addition, I work with CSS preprocessors like SASS.  I am interested in building innovative interfaces which proved the best user experience possible. My professional life has been 100% driven by my passion for video-games and system engineering.
 I am aiming to become a full-stack developer in the near future.
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="150px">
 
 - 🔭 I’m currently working on [Cry](https://github.com/dandgerson/cry)
 - 🌱 I’m currently learning TypeScript
