@@ -59,14 +59,9 @@ I am aiming to become a full-stack developer in the near future.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br>
 
-📊 **My profile stats:**
+| ![Dmitry's G. Anderson github stats](https://github-readme-stats.vercel.app/api?username=dandgerson&show_icons=true&hide=issues&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandgerson&hide=php)  |
+|:-:|:-:|
 
-![Dmitry's G. Anderson github stats](https://github-readme-stats.vercel.app/api?username=dandgerson&show_icons=true&hide=issues&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandgerson)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dandgerson.dandgerson)
-
-⭐️ From [dandgerson](https://github.com/dandgerson)
