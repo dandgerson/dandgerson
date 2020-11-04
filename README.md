@@ -53,8 +53,8 @@ I am aiming to become a full-stack developer in the near future.
 - ⚡ Fun fact: **no fun facts... I'm very serious**
 
 
-| ![Dmitry's G. Anderson github stats](https://github-readme-stats.vercel.app/api?username=dandgerson&show_icons=true&hide=issues&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandgerson&hide=php&layout=compact)  |
+| ![Dmitry's G. Anderson wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dandgerson) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandgerson&hide=php&layout=compact)  |
 |:-:|:-:|
-
+![Dmitry's G. Anderson github stats](https://github-readme-stats.vercel.app/api?username=dandgerson&show_icons=true&hide=issues&theme=nord)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dandgerson.dandgerson)
