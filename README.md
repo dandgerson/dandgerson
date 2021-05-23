@@ -34,7 +34,6 @@ I am aiming to become a full-stack developer in the near future.
 - 🤔 I’m looking for help with React, Redux/Mobx, D3, TypeScript
 - 💬 Ask me about React, D3
 - 📫 How to reach me: dandgerson@gmail.com
-- 😄 Pronouns: he / him
 - ⚡ Fun fact: **no fun facts... I'm very serious** 
 
 
