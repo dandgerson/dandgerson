@@ -16,7 +16,7 @@
   <img align="left" alt="Dmitry's G. Anderson Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
 </a>
 <a href="https://www.facebook.com/dandgerson">
-  <img align="left" alt="Mehdi's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Dmitry's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
 <br>
